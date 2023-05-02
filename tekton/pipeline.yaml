@@ -80,7 +80,7 @@ spec:
         - tests
         - lint
 
-    - name: deployсщт
+    - name: deploy
       workspaces:
         - name: manifest-dir
           workspace: pipeline-workspace
